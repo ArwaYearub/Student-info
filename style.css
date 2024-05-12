@@ -1,0 +1,24 @@
+h1{
+    border-radius: 2rem;
+    display: inline-block;
+background-color: antiquewhite;
+
+margin: 2rem;
+marg
+padding-bottom: 2rem;
+}
+
+body{
+    background: rgb(249, 249, 249);
+}
+
+table{
+    border: 1px solid black;
+    margin: 2rem;
+}
+tr, td{
+border: 1px solid black;
+border-radius: 2rem;
+padding: 5px;
+
+}
